@@ -1,0 +1,9 @@
+[submodule "algea"]
+	path = algea
+	url = https://github.com/Graham-Broughton/algea
+[submodule "DD-Finland-Forests"]
+	path = DD-Finland-Forests
+	url = https://github.com/Graham-Broughton/DD-Finland-Forests
+[submodule "similarity"]
+	path = similarity
+	url = https://github.com/Graham-Broughton/similarity
