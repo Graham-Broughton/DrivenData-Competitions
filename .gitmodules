@@ -7,3 +7,6 @@
 [submodule "similarity"]
 	path = similarity
 	url = https://github.com/Graham-Broughton/similarity
+[submodule "visiomel-melanoma-runtime"]
+	path = visiomel-melanoma-runtime
+	url = https://github.com/Graham-Broughton/visiomel-melanoma-runtime
